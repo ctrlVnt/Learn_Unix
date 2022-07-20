@@ -1,5 +1,3 @@
-# Learn Unix
-
-## What is it?
+## Learn Unix
 
 this repository contains example of codes for try Unix commands.
